@@ -1,5 +1,5 @@
 # Budget
-HTML, CSS, JavaScript, jQuery and Bootstrap in order to create a Budget Application.
+Simple Budget Application.
 
 ## Instructions
 - Keep track of your income and expenses with the application.
